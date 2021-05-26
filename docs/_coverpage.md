@@ -3,7 +3,7 @@
   DocsifyJS Template
 </h1>
 
-[![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/) <!-- TODO: Update username and repo name -->
+[![GitHub tags](https://img.shields.io/github/tag/shangjihao/docsify-js-template.svg)](https://GitHub.com/shangjihao/docsify-js-template/tags/) <!-- TODO: Update username and repo name -->
 
 >  Starter template for a markdown-based docs site <!-- TODO: Replace with your description -->
 
@@ -18,5 +18,5 @@
 - :cloud: Serve locally and on GitHub Pages or Netlify
 
 
-[Use this template](https://github.com/MichaelCurrin/docsify-js-template/generate) <!-- TODO: Remove on your copy of this template.-->
+[Use this template](https://github.com/shangjihao/docsify-js-template/generate) <!-- TODO: Remove on your copy of this template.-->
 [Get Started](#docsifyjs-template) <!-- TODO: Use ID of your homepage heading -->
